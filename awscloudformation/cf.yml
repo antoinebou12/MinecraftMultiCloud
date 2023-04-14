@@ -96,7 +96,7 @@ Parameters:
 
   Difficulty:
     Type: String
-    Description: The game's difficulty (options: peaceful, easy, normal, hard)
+    Description: "The game's difficulty (options: peaceful, easy, normal, hard)"
     Default: normal
     AllowedValues:
       - peaceful
